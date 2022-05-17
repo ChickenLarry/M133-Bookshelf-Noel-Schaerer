@@ -1,4 +1,4 @@
-package ch.bzz.dev.ash.bookshelf.service;
+package ch.bzz.dev.noel_schaerer.bookshelf.service;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

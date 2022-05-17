@@ -1,4 +1,4 @@
-package ch.bzz.dev.ash.bookshelf.model;
+package ch.bzz.dev.noel_schaerer.bookshelf.model;
 
 import java.util.List;
 
